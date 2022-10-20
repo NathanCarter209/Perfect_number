@@ -28,4 +28,4 @@ if (sum == num && num > 0)
         printf("%d is NOT A PERFECT NUMBER\n", num );
     }
 ```
-In this part we need initialised if-else statement 
+In this part we need initialise if-else statement for 1
